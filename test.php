@@ -1,4 +1,4 @@
 <?php
-echo "My first git test";
+echo "My first git change test";
 echo "my first commitment to git";
 ?> 
